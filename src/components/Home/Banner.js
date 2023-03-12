@@ -22,6 +22,7 @@ function Banner() {
       <div className="container">
         <h1 className="logo-font">{appName.toLowerCase()}</h1>
         <p>A place to share your knowledge.</p>
+        <Image src="../../../public/homepage_image.jpg"></Image>
       </div>
     </div>
   );

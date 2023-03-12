@@ -54,7 +54,7 @@ function LoggedInNavbar() {
       <li className="nav-item">
         <Link to="/editor" className="nav-link">
           <i className="ion-compose" />
-          &nbsp;New Post
+          &nbsp;New Post Here
         </Link>
       </li>
 
